@@ -21,3 +21,19 @@ A secure and customizable Password Generator App built using React JS and Vite, 
 
 🧠 React Hooks – Effective use of useState, useCallback, useEffect, and useRef to enhance interactivity.
 
+📥 Installation and Usage
+
+1. - Clone the repository:
+   git clone https://github.com/karangupta01/password-generator.git
+   cd password-generator
+
+2. - Install dependencies:
+     npm install
+
+3. -Run the app:
+     npm run dev
+
+Open http://localhost:5173 to view it in the browser.
+
+🤝 Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request to improve the app.
